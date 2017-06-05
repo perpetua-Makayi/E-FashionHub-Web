@@ -1,0 +1,37 @@
+body {
+  padding-top: 75px;
+   background:#ffe0b2;
+}
+.navbar a{
+  color:#fff !important;
+}
+.cart-block{
+  background:#333;
+  color:#fff;
+  padding:10px;
+  margin-bottom:20px;
+}
+.panel-list a{
+   display:block;
+   color:#666;
+}
+.panel-heading-green{
+   background:#ffe0b2;
+   color:#666;
+}
+
+.product price{
+ position:absolute;
+bottom:120px;
+right:15px;
+}
+}
+.product{
+  text-align:center;
+  padding:5px;
+  background:#333;
+  color:#fff;
+}
+.product img{
+  width:100%;
+}
